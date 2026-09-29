@@ -100,7 +100,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 | Free channel | Free tier | Pros / Cons | API quality |
 |------|------|------|------|
 | [SenseNova](https://platform.sensenova.cn) | free public beta, rolling 5h 60k credits | Pros: official China platform, generous beta quota, 1M context; Cons: limited-time beta, paid tiers coming, can switch to paid anytime |  |
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 #### DeepSeek V4 Flash
 
@@ -113,7 +113,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 | [OpenCode Zen](https://opencode.ai/zen) | limited-time free (`deepseek-v4-flash-free`) | Pros: OpenCode's official gateway, no card, 1M context; Cons: limited-time free can end anytime, data may be used to improve the model during the free period, lineup flips back and forth (showed billing on 9/11) |  |
 | [Hugging Face](https://huggingface.co) | $0.10 free inference credits/month, pay-as-you-go beyond | Pros: huge model catalog, OpenAI-compatible; Cons: only $0.10/month free credit, pay-as-you-go after (hard stop), rate-limited shared endpoint, no SLA | Tiny quota |
 | [ModelScope](https://modelscope.cn) | ~200 req/day | Pros: China-native, OpenAI-compatible, huge catalog; Cons: low-quality free tier — only ~200 req/day per model, shares a 2,000/day pool, Alibaba real-name, personal/non-commercial only | Low quality |
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 ### GLM family
 
@@ -123,7 +123,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 
 | Free channel | Free tier | Pros / Cons | API quality |
 |------|------|------|------|
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 #### GLM-5.3 Flash
 
@@ -197,7 +197,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 
 | Free channel | Free tier | Pros / Cons | API quality |
 |------|------|------|------|
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 #### Qwen3.8 Flash
 
@@ -277,7 +277,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 |------|------|------|------|
 | [AIHubMix](https://aihubmix.com/models/free) | free tier (100 req/day after one-time $1 top-up) | Pros: subsidized free models, OpenAI-compatible, no card on signup; Cons: 10 trial calls only before top-up, 1M tokens/day shared across the free pool |  |
 | [OpenCode Zen](https://opencode.ai/zen) | limited-time free (in-client) | Pros: official OpenCode gateway, no card; Cons: limited-time, client-only |  |
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 #### MiniMax M2.1
 
@@ -295,7 +295,7 @@ Stealth models are not like the other channels in this list. Up front, the prope
 |------|------|------|------|
 | [AIHubMix](https://aihubmix.com/models/free) | free tier (100 req/day after one-time $1 top-up) | Pros: subsidized free models, OpenAI-compatible, no card on signup; Cons: 10 trial calls only before top-up, 1M tokens/day shared across the free pool |  |
 | [NVIDIA NIM](https://build.nvidia.com) | permanent, 40 RPM | Pros: official, no card, no daily cap; Cons: 40 RPM shared | Frequent timeouts |
-| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; measured DeepSeek V4 Flash Chat usage about 0.75M tokens per Ink Point |  |
+| [Intern AI · Discovery Platform](https://discovery-home.intern-ai.org.cn) | limited-time free (10 Ink Points/month, credit-based) | Pros: official research platform, OpenAI/Anthropic-compatible; Cons: limited-time, 50 RPM / 2M TPM, 5-hour / 7-day caps; |  |
 
 #### Kimi K3
 
