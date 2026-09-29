@@ -101,6 +101,7 @@
 | 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
 |------|------|------|------|
 | [商汤 SenseNova](https://platform.sensenova.cn) | 公测免费,滚动 5h 60k 积分 | 优势:国产官方、公测期免费用量大、1M 上下文;限制:限时公测,付费档即将上线,随时可能转付费 |  |
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
 
 #### DeepSeek V4 Flash
 
@@ -113,8 +114,17 @@
 | [OpenCode Zen](https://opencode.ai/zen) | 限时免费(`deepseek-v4-flash-free`) | 优势:OpenCode 官方网关、免卡、1M 上下文;限制:限时免费随时结束、免费期数据用于改进模型、名单反复横跳(9/11 曾显示计费) |  |
 | [Hugging Face](https://huggingface.co) | 每月 $0.10 免费推理额度,超额按量付费 | 优势:社区模型极全、OpenAI 兼容;限制:免费额度仅 $0.10/月、超额即按量付费(hard stop),共享端点限流、无 SLA | 额度极小 |
 | [魔搭 ModelScope](https://modelscope.cn) | 约 200 次/日 | 优势:国产、OpenAI 兼容、模型全;限制:免费质量较低——单模型仅约 200 次/日,与全站共享 2000 次总量,需阿里云实名,仅限个人非商业用途 | 质量较低 |
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
 
 ### GLM 系列
+
+#### GLM-5.3
+
+> 智谱 GLM-5.3 通用模型
+
+| 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
+|------|------|------|------|
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
 
 #### GLM-5.3 Flash
 
@@ -182,6 +192,14 @@
 
 > ⚠️ **Qwen3 235B 已不在 OpenRouter 免费名单**（2026-09-11 实测）。
 
+#### Qwen3.8 27B
+
+> 轻量通用模型
+
+| 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
+|------|------|------|------|
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
+
 #### Qwen3.8 Flash
 
 > 轻量多模态,中文写作强
@@ -218,6 +236,30 @@
 
 ### 其他国产模型
 
+#### 书生-S2
+
+> 书生科学多模态大模型 S2
+
+| 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
+|------|------|------|------|
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（不扣墨点） | 优势:官方科研平台、OpenAI/Anthropic 兼容、50 RPM / 2M TPM;限制:限时活动、存在 5 小时/7 天限额，结束时间未公布 |  |
+
+#### Atria-Dawn-Preview
+
+> 书生·端砚科学发现平台提供的科研模型
+
+| 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
+|------|------|------|------|
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（不扣墨点） | 优势:官方科研平台、OpenAI/Anthropic 兼容、50 RPM / 2M TPM;限制:限时活动、存在 5 小时/7 天限额，结束时间未公布 |  |
+
+#### Agents-A1
+
+> 书生·端砚科学发现平台提供的智能体模型
+
+| 免费渠道 | 免费形式 | 优势 / 限制 | API 质量 |
+|------|------|------|------|
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（不扣墨点） | 优势:官方科研平台、OpenAI/Anthropic 兼容、50 RPM / 2M TPM;限制:限时活动、存在 5 小时/7 天限额，结束时间未公布 |  |
+
 #### MiniMax M2.7
 
 > 230B,代码 / 推理 / 办公
@@ -236,6 +278,7 @@
 |------|------|------|------|
 | [AIHubMix](https://aihubmix.com/models/free) | $1 开通:每日 100 次/1M token | 优势:平台补贴免费、OpenAI 兼容、免卡注册;限制:未充值仅 10 次试用;全免费模型共享额度,部分模型配额更低 |  |
 | [OpenCode Zen](https://opencode.ai/zen) | 限时免费(客户端内) | 优势:OpenCode 官方网关、免卡;限制:限时免费,仅客户端内使用 |  |
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
 
 #### MiniMax M2.1
 
@@ -253,6 +296,7 @@
 |------|------|------|------|
 | [AIHubMix](https://aihubmix.com/models/free) | $1 开通:每日 100 次/1M token | 优势:平台补贴免费、OpenAI 兼容、免卡注册;限制:未充值仅 10 次试用;全免费模型共享额度,部分模型配额更低 |  |
 | [NVIDIA NIM](https://build.nvidia.com) | 永久免费,40 RPM | 优势:官方托管、免绑卡、无每日上限;限制:40 RPM 全站共享 | 经常超时 |
+| [书生·端砚科学发现平台](https://discovery-home.intern-ai.org.cn) | 限时免费（10 墨点/月，按墨点扣费） | 优势:官方科研平台、OpenAI/Anthropic 兼容;限制:限时活动、50 RPM / 2M TPM、存在 5 小时/7 天限额，实测 DeepSeek V4 Flash Chat 约 0.75M Token/墨点 |  |
 
 #### Kimi K3
 
