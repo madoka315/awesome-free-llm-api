@@ -685,6 +685,16 @@
 - **接入**：`https://api.experientiallabs.ai/v1`（OpenAI 兼容，需注册生成 key）
 - **状态**：Active（限时）— 核实于 2026-09-14（⚠️ **免费层 uptime 偏低**：Claude Fable 5.1 仅 72.5%、TTFT 约 4.5 秒；**免费额度已收紧至约 500 credits/月**，额度耗尽返回错误且明确说明重试无效**；仅适合尝鲜，勿放入生产链路）
 
+#### 书生·端砚科学发现平台
+
+- **官网**：[https://discovery-home.intern-ai.org.cn](https://discovery-home.intern-ai.org.cn)（API 文档: [https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=3](https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=3)）
+- **免费形式**：限时免费，存在限时免费模型, 以及注册用户送10墨点(平台credits)/月, **控制台标注1墨点最大抵扣50M Token, 实测调用`deepseek-v4-flash-0731`做chat场景时, 1墨点约可用0.75M Token**, RPM 50次/分钟、TPM 2M Token/分钟、存在5小时限额和7天限额, 但限额足以覆盖免费额度
+- **网页说明**：`书生·端砚现已推出本地客户端及科研模型“墨点计划”（Token Plan）。测试期间，每位用户每月可获免费Token，用于调用多元模型与相关科研服务，欢迎广大科研工作者踊跃试用。`(来源: [上海人工智能实验室](https://www.shlab.org.cn/news/5444294))**未写明结束时间**
+- **免费模型**：限时不扣墨点的模型：`书生-S2`、`Atria-Dawn-Preview`、`Agents-A1`（官方文档标「限时免费」）
+按墨点扣的模型：`DeepSeek-V4-Flash-0731`、`DeepSeek-V4-Flash-Vision`、`DeepSeek-V4-Pro-0813`、`GLM-5.3`、`Kimi-K2.6`、`MiniMax-M3`、`Qwen3.8-27B`（单价见官方「模型列表与计费」）
+- **接入**：OpenAI协议: `https://discovery-api.intern-ai.org.cn/v1` Anthropic协议: `https://discovery-api.intern-ai.org.cn`
+- **状态**：**Active（限时）** — 核实于 `2026-09-29`
+
 ### 小型网关（谨慎）
 
 > 以下新晋网关验证有限、免费额度随时可能关停或收费，**只适合原型验证，别托付生产负载**。
